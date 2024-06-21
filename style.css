@@ -7,7 +7,7 @@ body {
     height: 100vh;
     background: #EDF3F8;
     font-family: 'Inter', sans-serif;
-    color: black;
+    color: #2E3445;
 }
 .container {
     max-width: 800px;
@@ -24,7 +24,7 @@ body {
 }
 .description a {
     text-decoration: underline;
-    color: black;
+    color: #2E3445;
 }
 .bold {
     font-weight: 700;
