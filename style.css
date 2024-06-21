@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #EDF3F8;
+    font-family: 'Inter', sans-serif;
+    color: black;
+}
+.container {
+    max-width: 800px;
+    padding: 20px;
+    text-align: left;
+}
+.headline {
+    font-size: 48px;
+    margin-bottom: 24px;
+}
+.description {
+    font-size: 18px;
+    margin-bottom: 24px;
+}
+.description a {
+    text-decoration: underline;
+    color: black;
+}
+.bold {
+    font-weight: 700;
+}
